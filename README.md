@@ -4,29 +4,28 @@
 changemean compute the contribution of changes in the mean and the distriubtion on several welfare indicators. 
 
 The following welfare measures are currently supported: 
-
-    h : headcount ratio [FGT(0)] (default value)
-    h2 : extremem poverty headcount ratio
-    pgr : poverty gap ratio [FGT(1)]
-    igr : income gap ratio
-    w : Watts index
-    s : Sen index
-    tak : Takayama index
-    thon : Thon index
-    fgt1 : Foster, Greer and Thorbecke - FGT(0.5)
-    fgt2 : Foster, Greer and Thorbecke - FGT(1.5)
-    fgt3 : Foster, Greer and Thorbecke - FGT(2)
-    fgt4 : Foster, Greer and Thorbecke - FGT(2.5)
-    fgt5 : Foster, Greer and Thorbecke - FGT(3)
-    fgt6 : Foster, Greer and Thorbecke - FGT(3.5)
-    fgt7 : Foster, Greer and Thorbecke - FGT(4)
-    fgt8 : Foster, Greer and Thorbecke - FGT(4.5)
-    fgt9 : Foster, Greer and Thorbecke - FGT(5)
-    chu1 : Clark, Ulph and Hemming index with beta of 0.10
-    chu2 : Clark, Ulph and Hemming index with beta of 0.25
-    chu3 : Clark, Ulph and Hemming index with beta of 0.50
-    chu4 : Clark, Ulph and Hemming index with beta of 0.75
-    chu5 : Clark, Ulph and Hemming index with beta of 0.90
+- h : headcount ratio [FGT(0)] (default value)
+- h2 : extremem poverty headcount ratio
+- pgr : poverty gap ratio [FGT(1)]
+- igr : income gap ratio
+- w : Watts index
+- s : Sen index
+- tak : Takayama index
+- thon : Thon index
+- fgt1 : Foster, Greer and Thorbecke - FGT(0.5)
+- fgt2 : Foster, Greer and Thorbecke - FGT(1.5)
+- fgt3 : Foster, Greer and Thorbecke - FGT(2)
+- fgt4 : Foster, Greer and Thorbecke - FGT(2.5)
+- fgt5 : Foster, Greer and Thorbecke - FGT(3)
+- fgt6 : Foster, Greer and Thorbecke - FGT(3.5)
+- fgt7 : Foster, Greer and Thorbecke - FGT(4)
+- fgt8 : Foster, Greer and Thorbecke - FGT(4.5)
+- fgt9 : Foster, Greer and Thorbecke - FGT(5)
+- chu1 : Clark, Ulph and Hemming index with beta of 0.10
+- chu2 : Clark, Ulph and Hemming index with beta of 0.25
+- chu3 : Clark, Ulph and Hemming index with beta of 0.50
+- chu4 : Clark, Ulph and Hemming index with beta of 0.75
+- chu5 : Clark, Ulph and Hemming index with beta of 0.90
 
 
 ## Suggested Citation
