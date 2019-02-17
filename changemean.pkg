@@ -1,7 +1,7 @@
-v 0.0.0
-d 'CHANGEMEAN' 
+v 2.3
+d 'CHANGEMEAN': Stata module to compute Income and Inequality Contribution on Poverty Variation
 d 
-d Distribution-Date: 
+d Distribution-Date: 10sept2010
 d License: MIT
 d 
 F src/c/changemean.ado
