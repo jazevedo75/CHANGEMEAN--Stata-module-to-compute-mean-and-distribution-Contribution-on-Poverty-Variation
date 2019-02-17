@@ -1,0 +1,10 @@
+v 0.0.0
+d 'CHANGEMEAN' 
+d 
+d Distribution-Date: 
+d License: MIT
+d 
+F src/c/changemean.ado
+F src/c/changemean.hlp
+F src/_/_pecats.ado
+F src/_/_pecats.hlp
