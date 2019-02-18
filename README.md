@@ -1,4 +1,4 @@
-# CHANGEMEAN: Stata module to compute the contribution of the mean and distribution on poverty changes
+﻿# CHANGEMEAN: Stata module to compute the contribution of the mean and distribution on poverty changes
 
 ## Abstract
 changemean compute the contribution of changes in the mean and the distriubtion on several welfare indicators. 
@@ -38,3 +38,11 @@ This module should be installed from within Stata by typing "ssc install changem
 
 ### Keywords
 poverty gap; inequality; income distribution
+
+## Author: 
+
+  **João Pedro Azevedo**  
+  [jazevedo@worldbank.org](mailto:jazevedo@worldbank.org)  
+  World Bank  
+  [personal page](http://www.worldbank.org/en/about/people/j/joao-pedro-azevedo)  
+
